@@ -1,2 +1,1 @@
 # Solidity-practice
-Solidity Practice
